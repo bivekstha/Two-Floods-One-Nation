@@ -1,20 +1,3 @@
-# 🇳🇵 Nepal Flood Awareness Project
-
-### Voices from the Mud --- The Human Impact of Flooding in Nepal
-
-```{=html}
-<p align="center">
-```
-`<strong>`{=html}A Social Awareness, Research & Visual Storytelling
-Project`</strong>`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-## 📖 About the Project
-
 The **Nepal Flood Awareness Project** is an academic research and
 social-awareness initiative focused on understanding the impact of
 floods in Nepal, with particular attention to the regions of **Rasuwa
